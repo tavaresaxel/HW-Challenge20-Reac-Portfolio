@@ -18,15 +18,15 @@ function App() {
   const [currentPage, setCurrentPage] = useState('Home');
   const renderPage = () => {
     if (currentPage === 'Home') {
-      return <Home />;
+      return <Home/>;
     }
     if (currentPage === 'About') {
-      return <About />;
+      return <About/>;
     }
-    if (currentPage === 'Blog') {
-      return <Blog />;
+    if (currentPage === 'Portfolio') {
+      return <Portfolio/>;
     }
-    return <Contact />;
+    return <Contact/>;
   };
 
   const handlePageChange = (page) => setCurrentPage(page);
@@ -34,7 +34,7 @@ function App() {
   return (
     <>
      
-     <NavBar/>
+     <NavBa currentPage = {currentPage} handlePageChange = {handlePageChange}/>
      {renderPage()} 
     </>
   )

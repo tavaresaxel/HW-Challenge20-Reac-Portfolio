@@ -1,4 +1,4 @@
-function CardContainer() {
+function CardContainer({children}) {
     return <>
         <div class="container-xxl py-5" id="feature">
             <div class="container py-5 px-lg-5">
@@ -7,7 +7,7 @@ function CardContainer() {
                     <h1 class="mb-5">Awesome Features</h1>
                 </div>
                 <div class="row g-4">
-
+                    {children}
                 </div>
             </div>
         </div>
