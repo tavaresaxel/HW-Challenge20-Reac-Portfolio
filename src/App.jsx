@@ -34,7 +34,7 @@ function App() {
   return (
     <>
      
-     <NavBa currentPage = {currentPage} handlePageChange = {handlePageChange}/>
+     <NavBar currentPage = {currentPage} handlePageChange = {handlePageChange}/>
      {renderPage()} 
     </>
   )
