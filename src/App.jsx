@@ -35,7 +35,7 @@ function App() {
     <>
      
      <NavBar currentPage = {currentPage} handlePageChange = {handlePageChange}/>
-     {renderPage()} 
+     {renderPage()}
     </>
   )
 }

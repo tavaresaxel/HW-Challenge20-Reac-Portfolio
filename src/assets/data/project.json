@@ -1,38 +1,38 @@
 [
     {
-        "title": "Note Taker",
-        "image": "https://placehold.co/400",
-        "liveLink": "https://github.com/tavaresaxel",
-        "githubLink": "https://github.com"
+        "title": "Work Day Scheduler",
+        "image": "public/img/time-schedule-icon-free-vector.jpg",
+        "liveLink": "https://tavaresaxel.github.io/HW-Challenge5-Work-Day-Scheduler/",
+        "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Tech Blog",
-        "image": "https://placehold.co/400",
-        "liveLink": "https://github.com/tavaresaxel",
-        "githubLink": "https://github.com"
+        "image": "public/img/LMS-RFP-Template-blog-image-400x400.png",
+        "liveLink": "https://tech-blog-14-at-7a2ea2c5828e.herokuapp.com/",
+        "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Password Generator",
         "image": "https://placehold.co/400",
-        "liveLink": "https://github.com/tavaresaxel",
-        "githubLink": "https://github.com"
+        "liveLink": "",
+        "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Horizon",
         "image": "https://placehold.co/400",
-        "liveLink": "https://github.com/tavaresaxel",
-        "githubLink": "https://github.com"
+        "liveLink": "",
+        "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Code Quiz",
         "image": "https://placehold.co/400",
-        "liveLink": "https://github.com/tavaresaxel",
-        "githubLink": "https://github.com"
+        "liveLink": "",
+        "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Open Weather",
-        "image": "https://placehold.co/400",
-        "liveLink": "https://github.com/tavaresaxel",
-        "githubLink": "https://github.com"
+        "image": "public/img/flat-style-of-rain-cloud-raining-icon-in-trendy-style-vector.jpg",
+        "liveLink": "https://tavaresaxel.github.io/HW-Challenge6-Server-Side-APIs-Weather-Dashboard/",
+        "githubLink": "https://github.com/tavaresaxel"
     }
 ]
