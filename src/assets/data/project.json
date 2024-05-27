@@ -13,8 +13,8 @@
     },
     {
         "title": "Password Generator",
-        "image": "https://placehold.co/400",
-        "liveLink": "",
+        "image": "public/img/images.png",
+        "liveLink": "https://tavaresaxel.github.io/HW-Challenge3-JavaScript-PasswordGenerator/",
         "githubLink": "https://github.com/tavaresaxel"
     },
     {
