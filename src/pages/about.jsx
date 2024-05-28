@@ -1,4 +1,4 @@
-function About(){
+function About({handlePageChange}){
     return <>
         <div class="container-xxl py-5" id="about">
             <div class="container py-5 px-lg-5">

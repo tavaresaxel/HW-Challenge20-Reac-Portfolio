@@ -21,7 +21,7 @@ function App() {
       return <Home/>;
     }
     if (currentPage === 'About') {
-      return <About/>;
+      return <About handlePageChange={handlePageChange}/>;
     }
     if (currentPage === 'Portfolio') {
       return <Portfolio/>;
