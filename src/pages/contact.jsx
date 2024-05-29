@@ -33,7 +33,7 @@ function Contact() {
 
         // First we check to see if the email is not valid or if the userName is empty. If so we set an error message to be displayed on the page.
         if (!validateEmail(email) || !name) {
-            setErrorMessage('Email or username is invalid');
+            setErrorMessage('Email or Name is invalid');
             // We want to exit out of this code block if something is wrong so that the user can correct it
             return;
             // Then we check to see if the password is not valid. If so, we set an error message regarding the password.
@@ -56,13 +56,13 @@ function Contact() {
         <div class="container-xxl py-5" id="contact">
             <div class="container py-5 px-lg-5">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                    <h5 class="text-primary-gradient fw-medium">Contact Us</h5>
+                    <h5 class="text-primary-gradient fw-medium">Contact Me</h5>
                     <h1 class="mb-5">Get In Touch!</h1>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-9">
                         <div class="wow fadeInUp" data-wow-delay="0.3s">
-                            <p class="text-center mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href={resume} download>Download Now</a>.</p>
+                            <p class="text-center mb-4">Please leave me your info in the form below if you would like me to contact you. Also if you are interesrted in me as your future employee and would like to take a look at my resume please click this link to download my resume. <a href={resume} download>Download Resume</a>.</p>
                             <form onSubmit={handleFormSubmit}>
                                 <div class="row g-3">
                                     <div class="col-md-6">
