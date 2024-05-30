@@ -1,37 +1,37 @@
 [
     {
         "title": "Work Day Scheduler",
-        "image": "public/img/time-schedule-icon-free-vector.jpg",
+        "image": "/img/time-schedule-icon-free-vector.jpg",
         "liveLink": "https://tavaresaxel.github.io/HW-Challenge5-Work-Day-Scheduler/",
         "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Tech Blog",
-        "image": "public/img/LMS-RFP-Template-blog-image-400x400.png",
+        "image": "/img/LMS-RFP-Template-blog-image-400x400.png",
         "liveLink": "https://tech-blog-14-at-7a2ea2c5828e.herokuapp.com/",
         "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Password Generator",
-        "image": "public/img/images.png",
+        "image": "/img/images.png",
         "liveLink": "https://tavaresaxel.github.io/HW-Challenge3-JavaScript-PasswordGenerator/",
         "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Text Editor",
-        "image": "public/img/Copy-of-10-Top-Tools-to-Speed-Up-Your-Web-Apps-Thumbnail-1-1.png",
+        "image": "/img/Copy-of-10-Top-Tools-to-Speed-Up-Your-Web-Apps-Thumbnail-1-1.png",
         "liveLink": "https://hw-challenge19-text-editor.onrender.com/",
         "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Code Quiz",
-        "image": "public/img/quiz-vintage-3d-lettering-vector.jpg",
+        "image": "/img/quiz-vintage-3d-lettering-vector.jpg",
         "liveLink": "https://tavaresaxel.github.io/HW-Challenge4-Code-Quiz/",
         "githubLink": "https://github.com/tavaresaxel"
     },
     {
         "title": "Open Weather",
-        "image": "public/img/flat-style-of-rain-cloud-raining-icon-in-trendy-style-vector.jpg",
+        "image": "/img/flat-style-of-rain-cloud-raining-icon-in-trendy-style-vector.jpg",
         "liveLink": "https://tavaresaxel.github.io/HW-Challenge6-Server-Side-APIs-Weather-Dashboard/",
         "githubLink": "https://github.com/tavaresaxel"
     }

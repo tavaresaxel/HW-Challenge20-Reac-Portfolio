@@ -10,7 +10,7 @@ function About({handlePageChange}){
                         <a onClick={()=> handlePageChange("Contact")} class="btn btn-primary-gradient py-sm-3 px-4 px-sm-5 rounded-pill mt-3">Contact Me</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="public\img\WIN_20231130_17_26_41_Pro.jpg"/>
+                        <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="/img/WIN_20231130_17_26_41_Pro.jpg"/>
                     </div>
                 </div>
             </div>
