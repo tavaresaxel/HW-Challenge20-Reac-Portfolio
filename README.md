@@ -1,8 +1,33 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a website containing my personal portfolio and it was built using React.
+
+## Table of Contents
+
+
+- [Installation](#installation)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+To visit my portfolio please visit the website: https://main--animated-fenglisu-bbdb2f.netlify.app/  
+
+## Contributing
+
+This portfolio was able to be made thanks to REACT.
+
+## License
+
+I chose the MIT License for my portfolio
+
+## Questions
+<ul>
+  <li> <a href='mailto://tavaresaxel95@gmail.com?subject="contact me"&body="Hello"'> Email Me </a></li>
+  <li> <a href='https://github.com/tavaresaxel'> My Github Profile </a> </li>
+</ul>
+
